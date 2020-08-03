@@ -1,4 +1,4 @@
-#program to find area of circle in Python using math file
+#program to find area of circle 
 r = float(3)
 pi = 3.141
 area = pi * r * r
