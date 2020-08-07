@@ -1,7 +1,7 @@
 # This program adds two numbers
 
 num1 = 6.4
-num2 = 2.5
+num2 = 2.4
 
 # Add two numbers
 sum = num1 + num2
