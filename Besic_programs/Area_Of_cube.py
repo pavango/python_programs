@@ -2,4 +2,4 @@
 
 length = float(3)
 area = 6 * (length * length)
-print(" Surface Area of Cube = %.2f" % area)
+print(" Surface Area of Cube = %.2f" % )
