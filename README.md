@@ -8,3 +8,9 @@ https://github.com/pavango/python_programs/blob/master/besic_programs/Add_2_Numb
 
 ### 2) I've Created This Program To Find Area Of Circle.
 https://github.com/pavango/python_programs/blob/master/besic_programs/Area_Of_Circle.py
+
+### 3) I've Created This Program To Find Area Of Cube
+https://github.com/pavango/python_programs/blob/master/besic_programs/Area_Of_Cube.py
+
+### 4) I've Created This Program To Find Area Of Cuboid.
+https://github.com/pavango/python_programs/blob/master/besic_programs/Area_Of_Cuboid.py
